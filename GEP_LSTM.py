@@ -11,7 +11,7 @@ plt.style.use('seaborn-white')
 from copy import deepcopy
 from collections import deque
 
-from np_utils import assert_same_shape
+from lincoln.utils.np_utils import assert_same_shape
 from scipy.special import logsumexp
 
 
